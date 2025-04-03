@@ -1,0 +1,1 @@
+Obtain the minimum MSE error on test data. Ensure to output MSE, MAE and R2, for each parameter as part of the evaluation.
