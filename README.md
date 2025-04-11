@@ -26,11 +26,14 @@ At this time, only configuration files and example outputs are being shared. The
 
 If you use these resources in your research, please cite our paper:
 
-@article{moss2025aicosmologist,
-title={The AI Cosmologist I: An Agentic System for Automated Data Analysis},
-author={Moss, Adam},
-journal={},
-year={2025}
+@article{Moss:2025ynt,
+    author = "Moss, Adam",
+    title = "{The AI Cosmologist I: An Agentic System for Automated Data Analysis}",
+    eprint = "2504.03424",
+    archivePrefix = "arXiv",
+    primaryClass = "astro-ph.IM",
+    month = "4",
+    year = "2025"
 }
 
 ## Contact
