@@ -10,7 +10,7 @@ The AI Cosmologist implements a complete pipeline from idea generation to experi
 
 This repository currently includes:
 - Configuration files for the experiments described in the paper
-- Example outputs for the Galaxy Zoo and Quijote simulation datasets
+- The best AI generated code for the [Galaxy Zoo](https://github.com/adammoss/aicosmologist/blob/main/examples/galaxy-zoo/main.py) and [Quijote simulation](https://github.com/adammoss/aicosmologist/blob/main/examples/quijote-simulations-3D/main.py) datasets
 
 ## Examples
 
